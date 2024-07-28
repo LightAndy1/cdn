@@ -22,7 +22,7 @@ https://cdn.jsdelivr.net/gh/LightAndy/cdn/Audio/gtavi.mp3
 
 Here's a quick overview of the directory structure:
 
-```txt
+```dir
 /
 ├── Images/
 │ ├── img.png
